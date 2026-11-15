@@ -1,1 +1,2 @@
 Git basics
+Git helps track project changes
